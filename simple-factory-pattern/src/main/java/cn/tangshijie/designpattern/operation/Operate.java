@@ -11,9 +11,7 @@ public abstract class Operate {
     private double numberA;
     private double numberB;
 
-    public double getResult() {
-        return 0;
-    }
+    public abstract double getResult();
 
     public double getNumberA() {
         return numberA;
