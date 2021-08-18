@@ -2,7 +2,6 @@ package cn.tangshijie.designpattern.test;
 
 import cn.tangshijie.designpattern.SimpleFactory;
 import cn.tangshijie.designpattern.operation.Operate;
-import org.junit.Assert;
 import org.junit.Test;
 
 /**
